@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola soy Ezequiel Bourlot alumno del impa, división 4°1° Avionica, comisión "A"
 
 <!--
 **eze2508/eze2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
